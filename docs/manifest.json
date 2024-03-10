@@ -1,0 +1,21 @@
+{
+    "name": "History Book PWA App",
+    "short_name": "HistoryBooks Vue",
+    "theme_color": "#FFF8F0",
+    "background_color": "#000000",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+      {
+        "src": "icons/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
